@@ -39,5 +39,5 @@ The dataset contains SMS messages labeled as:
 The model successfully classifies spam and non-spam messages with good accuracy and recall.
 
 
-## 👩‍💻 Author
+# Author
 Tabish Hassan
